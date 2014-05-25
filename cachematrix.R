@@ -1,6 +1,7 @@
 ## Written by John Castellucci on 25 May 2014
 
-## This pair of functions enable the user to make a special matrix that caches its own inverse so that it can be retrieved at will and only has to be computed once.
+## This pair of functions enable the user to make a special matrix that caches its
+## own inverse so that it can be retrieved at will and only has to be computed once.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
